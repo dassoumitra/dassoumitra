@@ -2,7 +2,7 @@
 - 👀 I’m interested in  python, AI, Machine learning, Deep learning and all  newest technolog ..
 - 🌱 I’m currently studying at diploma in computer science and technology.
 - 📫 How to reach me ...
-- soumitrad860@gmail.com
+- soumitrad801@gmail.com
 - I'm currently exploring Machine learning and Deep learning .
 
 <!---
