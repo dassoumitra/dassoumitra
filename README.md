@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Soumitra Das<br>👀 I’m interested in python, AI, Machine learning, Deep learning and all newest technolog ..<br>🌱 I’m currently studying at diploma in computer science and technology.<br>📫 How to reach me ...<br>soumitrad801@gmail.com<br>I'm currently exploring Machine learning and Deep learning .
+👋 Hi, I’m Soumitra Das<br>👀 I’m interested in python, AI, Machine learning, Deep learning and all newest technolog ..<br>🌱 I’m currently studying at diploma in computer science and technology.<br>📫 How to reach me ...<br>soumitrad801@gmail.com<br>I'm currently exploring Machine learning and Deep learning .<br> Linkdin Profile: https://www.linkedin.com/in/soumitra-das-82a316310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## 🌐 Socials:
