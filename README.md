@@ -40,7 +40,7 @@ https://www.linkedin.com/in/soumitra-das-823161310
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/o9OIsoQB8g?theme=dark\&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/o90IsoQB8g?theme=dark\&font=baloo)
 
 ---
 
