@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Soumitra Das<br>👀 I’m interested in python, AI, Machine learning, Deep learning and all newest technolog ..<br>🌱 I’m currently studying at diploma in computer science and technology.<br>📫 How to reach me ...<br>soumitrad801@gmail.com<br>I'm currently exploring Machine learning and Deep learning .<br> Linkdin Profile: https://www.linkedin.com/in/soumitra-das-82a316310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/o9OIsoQB8g?theme=dark&font=baloo&ext=heatmap)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BK9kLtM9W/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sd.soumitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumitra-das-82a316310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CodeSoumitra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitrad801@gmail.com) 
