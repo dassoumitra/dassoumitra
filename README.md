@@ -14,14 +14,12 @@
 
 📫 **Email:** [soumitrad801@gmail.com](mailto:soumitrad801@gmail.com)
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/soumitra-das-823161310
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/soumitra-das-823161310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/das-soumitra)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soumitrad801@gmail.com)
 
 ---
