@@ -22,6 +22,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/das-soumitra)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soumitrad801@gmail.com)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="das-soumitra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/das-soumitra?trk=profile-badge">Soumitra Das</a></div>
+              
 ---
 
 ## ⚙️ Tech Stack
