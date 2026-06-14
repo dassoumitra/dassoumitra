@@ -40,7 +40,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/soumitra-das?theme=dark\&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/das-soumitra?theme=dark\&font=baloo)
 
 ---
 
