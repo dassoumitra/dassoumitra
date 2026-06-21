@@ -6,11 +6,20 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Diploma in **Computer Science & Technology**
-* 🤖 Interested in **AI, Machine Learning, Deep Learning**
-* 💡 Currently learning **Data Structures & Algorithms (LeetCode)**
-* 🗄️ Learning **SQL & Database Systems**
-* 🌱 Exploring **Python and Java development**
+🎓 B.Tech Computer Science & Engineering Student | Diploma in Computer Science & Technology
+
+💻 Passionate about Software Development, Problem Solving, and Computer Science Fundamentals
+
+🧩 Actively practicing Data Structures & Algorithms through LeetCode and coding challenges
+
+🗄️ Building strong foundations in SQL, Database Management Systems (DBMS), and System Design
+
+☕ Proficient in Java, Python, and Object-Oriented Programming concepts
+
+🚀 Developing real-world projects and continuously enhancing technical skills for Software Engineering roles
+
+🌱 Committed to lifelong learning, innovation, and professional growth
+
 
 📫 **Email:** [soumitrad801@gmail.com](mailto:soumitrad801@gmail.com)
 
