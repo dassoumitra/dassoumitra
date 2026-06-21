@@ -6,19 +6,19 @@
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering Student | Diploma in Computer Science & Technology
+🎓 B.Tech Computer Science & Engineering student (Class of 2027) with a strong academic foundation and a GPA-driven commitment to technical excellence.
 
-💻 Passionate about Software Development, Problem Solving, and Computer Science Fundamentals
+💻 Passionate about building software that solves real problems — with hands-on experience in Java, Python, SQL, and System Design, and a keen focus on Data Structures & Algorithms and Database Systems.
 
-🧩 Actively practicing Data Structures & Algorithms through LeetCode and coding challenges
+🔧 Active project builder: from file-sharing tools to full-stack portfolio sites — I translate concepts into working products, iterating on design and architecture along the way.
 
-🗄️ Building strong foundations in SQL, Database Management Systems (DBMS), and System Design
+📊 Grounded in core CS fundamentals — DBMS, Computer Networks, OS — with growing expertise in Data Mining and distributed systems concepts.
 
-☕ Proficient in Java, Python, and Object-Oriented Programming concepts
+🧠 Consistent problem solver on LeetCode, sharpening algorithmic thinking across arrays, trees, graphs, and dynamic programming.
 
-🚀 Developing real-world projects and continuously enhancing technical skills for Software Engineering roles
+🚀 Targeting Software Engineering and System Engineer roles — driven by curiosity, precision, and an obsession with writing clean, efficient code.
 
-🌱 Committed to lifelong learning, innovation, and professional growth
+📍 West Bengal, India | Open to internships, collaborations & campus opportunities
 
 
 📫 **Email:** [soumitrad801@gmail.com](mailto:soumitrad801@gmail.com)
